@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    align-items: center;
+    background-color: #68b35c;
+    .logo-app{
+        font-size: 20px;
+        font-weight: bold;
+        color: #fff;
+        margin: 0px;
+        cursor: pointer;
+    }
+    .menu-item{
+        font-size: 18px;
+        color: #fff;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+}
